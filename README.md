@@ -1,4 +1,5 @@
 Delinquency Prediction Project
+
 📌 Project Overview
 
 The Delinquency Prediction Project aims to predict whether a customer will become delinquent based on their financial and demographic attributes. This predictive model helps financial institutions minimize credit risk and make better loan approval decisions.
